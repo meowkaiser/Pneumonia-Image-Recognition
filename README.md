@@ -1,1 +1,20 @@
 # Pneumonia-Image-Recognition
+Introduction\
+Buisness Understanding\
+Pneumonia is an infection of one or both of the lungs caused by bacteria, viruses, or fungi. It is a serious infection in which the air sacs fill with pus and other liquid. Lobar pneumonia affects one or more sections (lobes) of the lungs.
+Pneumonia accounts for 14% of all deaths of children under 5 years old, killing 740 180 children in 2019
+The cost of antibiotic treatment for all children with pneumonia in 66 of the countdown to 2015 countries for maternal, newborn and child survival is estimated at around US$ 109 million per year. The price includes the antibiotics and diagnostics for pneumonia management.
+treat pneumonia focusing on making sure that every sick child has access to the right kind of care -- either from a community-based health worker, or in a health facility if the disease is severe -- and can get the antibiotics and oxygen they need to get well;
+Pneumonia is the world’s biggest infectious killer of adults and children – claiming 2.5 million lives, including 672,000 children under five, in 2019.
+That’s one person dying every 13 seconds
+
+Data Description\
+The data contains more than 5000 images of pneumonia of viral and bacterial pneumonia of and children 1-5 in Guangzhou Women and Children’s Medical Center, Guangzhou.
+Modeling\
+Model Evaluation\
+We evaluated based on the recall metric
+Adopt Our Model 
+Increase funding to charities fighting Pneumonia
+Continue pursuing technological solution to problems
+
+Conclusion\
