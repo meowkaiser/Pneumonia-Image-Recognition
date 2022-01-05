@@ -12,7 +12,7 @@ The data was aquired from Mendeley. The data contained over 5000 images of pneum
 The data was organized into train and test sets.
 https://data.mendeley.com/datasets/rscbjbr9sj/3
 ## Modeling
-We used a CNN model to create predictions based on the xray's of patients lungs. We iterated through many different activation functions and different amounts of hidden nodes to optimize our model. Our best model was used a soft max activation function.
+We used a CNN model to create predictions based on the xray's of patients lungs. We iterated through many different activation functions, including relu and tanx, and different amounts of hidden nodes to optimize our model. Our best model used a soft max activation function.
 
 ## Model Evaluation
 We evaluated based on the recall metric.
