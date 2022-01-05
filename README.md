@@ -31,3 +31,11 @@ Continue pursuing technological solution to problems.
 
 ## Conclusion
 If adopted our model will Stop Pneumonia's charity to reduce the occurance of false negatives in pnemonia diagnosis and improve health outcomes.
+
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── notebook.ipynb                      <- Concise summary of the project with all data science steps
+├── Slides.pdf                          <- PDF version of project presentation
+├── Data                                <- Both sourced externally and generated from code, includes exploratory notebooks
+└── Images                              <- Both sourced externally and generated from code
+```  
