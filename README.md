@@ -10,7 +10,7 @@ That’s one person dying every 13 seconds.
 ## Data Description
 The data was aquired from Mendeley. The data contained over 5000 images of pneumonia of children aged 1-5. The images were screened prior to inclusion and poor quality xrays were removed. The images showed anterior and postior xrays of the chest cavity.
 The data was organized into train and test sets.
-
+https://data.mendeley.com/datasets/rscbjbr9sj/3
 ## Modeling
 We used a CNN model to create predictions based on the xray's of patients lungs. We iterated through many different activation functions and different amounts of hidden nodes to optimize our model. Our best model was used a soft max activation function.
 
