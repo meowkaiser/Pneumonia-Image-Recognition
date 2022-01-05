@@ -1,6 +1,6 @@
 # Pneumonia-Image-Recognition
 ## Introduction
-We are a group of data scientists attempting to predict pneumonia based on xray scans.
+We are a group of data scientists attempting to predict pneumonia based on xray scans. We hope that the charity Stop Pneumonia will adopt our model and deploy it to reduce misdiagnosis of pnemonia. This will in turn improve treatment and therein health outcomes.
 
 ## Buisness Understanding
 Pneumonia is an infection of one or both of the lungs caused by bacteria, viruses, or fungi. It is a serious infection in which the air sacs fill with pus and other liquid. Lobar pneumonia affects one or more sections (lobes) of the lungs.
