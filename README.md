@@ -1,6 +1,6 @@
 # Pneumonia-Image-Recognition
 ## Introduction
-We are a group of data scientists attempting to predict pneumonia based on xray scans. We hope that the charity Stop Pneumonia will adopt our model and deploy it to reduce misdiagnosis of pnemonia. This will in turn improve treatment and therein health outcomes.
+We are a group of data scientists attempting to predict pneumonia based on xray scans. We hope that the charity Stop Pneumonia will adopt our model and deploy it to reduce misdiagnosis of pneumonia. This will in turn improve treatment and therein health outcomes.
 
 ## Buisness Understanding
 Pneumonia is a bacterial, viral or fungal infection of the lungs. It is very serious where the air sacs fill with liquid. This disease acounts for 14% of all deaths of children under 5 years old.
