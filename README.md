@@ -30,4 +30,4 @@ Increase funding to charities fighting Pneumonia.
 Continue pursuing technological solution to problems.
 
 ## Conclusion
-If adopted our model will help to reduce the occurance of false negatives in pnemonia diagnosis and improve health outcomes.
+If adopted our model will Stop Pneumonia's charity to reduce the occurance of false negatives in pnemonia diagnosis and improve health outcomes.
