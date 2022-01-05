@@ -17,6 +17,7 @@ We used a CNN model to create predictions based on the xray's of patients lungs.
 ## Model Evaluation
 We evaluated based on the recall metric.
 Our model was somewhat prone to overfitting.
+![image](https://user-images.githubusercontent.com/92397941/148302752-99096f53-9432-4e46-b34d-5f9c3ea2196a.png)
 
 
 ## Conclusion
