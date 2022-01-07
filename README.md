@@ -26,7 +26,7 @@ Here we display a model where the loss function between the train and testing se
 ## Conclusion
 If adopted our model will Stop Pneumonia's charity to reduce the occurance of false negatives in pnemonia diagnosis and improve health outcomes. With greater computional power and more data, this model can be further optimized to increase its accuracy.
 We also recommend increasing funding to charities fighting Pneumonia.
-Finall, efforts should be in place to continue pursuing technological solution to misdiagnosis problems.
+Finally, efforts should be in place to continue pursuing technological solutions to misdiagnosis issues.
 
 ## Presentation
 https://github.com/meowkaiser/Pneumonia-Image-Recognition/blob/main/Slides.pdf
