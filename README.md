@@ -20,11 +20,15 @@ Our model was somewhat prone to overfitting.
 ![image](https://user-images.githubusercontent.com/92397941/148302752-99096f53-9432-4e46-b34d-5f9c3ea2196a.png)
 ![image](https://user-images.githubusercontent.com/92397941/148302911-85978ed1-e540-49ff-880f-53413e8a504a.png)
 
+Here we display a model where the loss function between the train and testing sets are minimized, and makes predictions against unseen data with 87.2% accuracy. While these results are consistent, the data scientists working on this project are limited by their PC's computing power. Future work would increase the image sizes for greater resolution and therefore more accurate predictions. Additionally, having a larger data set would also benefit the model to perform with greater accuracy.
 
 ## Conclusion
 If adopted our model will Stop Pneumonia's charity to reduce the occurance of false negatives in pnemonia diagnosis and improve health outcomes.
 Increase funding to charities fighting Pneumonia.
 Continue pursuing technological solution to problems.
+
+## Presentation
+https://github.com/meowkaiser/Pneumonia-Image-Recognition/blob/main/Slides.pdf
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
