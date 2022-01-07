@@ -32,7 +32,10 @@ https://github.com/meowkaiser/Pneumonia-Image-Recognition/blob/main/Slides.pdf
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── notebook.ipynb                      <- Concise summary of the project with all data science steps
+├── notebook_tahu.ipynb                 <- Tanu was our first model, but not effective
+├── notebook_softmax.ipynb              <- Softmax was an improvement
+├── notebook_relu.ipynb                 <- RELU was our best model
+├── notebook_final                      <- Concise summary of the project with all data science steps
 ├── Slides.pdf                          <- PDF version of project presentation
 ├── Data                                <- Both sourced externally and generated from code, includes exploratory notebooks
 └── Images                              <- Both sourced externally and generated from code
