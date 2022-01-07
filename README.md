@@ -17,6 +17,7 @@ We used a convolutional neural network (CNN) model to create predictions based o
 ## Model Evaluation
 We evaluated our models based on accuracy and recall metrics.
 Our model was somewhat prone to overfitting, but the relu model minimized overfitting while giving us higher metrics.
+
 ![image](https://user-images.githubusercontent.com/92397941/148302752-99096f53-9432-4e46-b34d-5f9c3ea2196a.png)
 ![image](https://user-images.githubusercontent.com/92397941/148302911-85978ed1-e540-49ff-880f-53413e8a504a.png)
 
